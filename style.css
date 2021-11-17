@@ -1,0 +1,136 @@
+.header{
+  height: 900px;
+  width: 900px;
+  border: 1px solid black;
+  
+}
+.head{
+
+  border: 1px solid black;
+  height: 50px;
+  width: 200px;
+  float: left;
+  border-top-style: none;
+  border-right-style: none;
+  border-left-style: none;
+
+  
+}
+.categories{
+  width: 300px;
+  height: 30px;
+  padding-top: 20px;
+  padding-bottom: 0px;
+}
+.cart{
+  width: 400px;
+  padding-inline-end: 
+  
+}
+img{
+  width: 30px;
+  height: 30px;
+  padding-bottom: 2px;
+  padding-left: 100px
+
+}
+.cart1{
+  padding-left: 0px;
+  height: 40px;
+  width: 40px
+}
+
+p{
+  float: left;
+  position: absolute;
+  left: 790px;
+  top: 20px
+}
+.centang{
+  height: 100px;
+  width: 100px;
+  padding-top:30px; 
+  padding-left: 0px
+}
+.bayan{
+  padding-left: 0px;
+}
+.data{
+  height: 200px;
+  width: 300px;
+  position: absolute;
+  left: 100px;
+  top:100px;
+}
+.inforder{
+  
+  width: 500px;
+  padding-left: 20px
+}
+.address{
+  padding-left: 10px;
+  width: 200px;
+  
+}
+.address1{
+  padding-left: 10px;
+  width: 200px;
+  
+  position: absolute;
+  left: 300px;
+  top: 375px;
+}
+.method{
+  
+  padding-left: 10px;
+  width: 200px;
+  
+  padding-top: 40px;
+}
+.second{
+    padding-left: 10px;
+  width: 200px;
+  
+  position: absolute;
+  left: 300px;
+  top: 470px;
+}
+.footer{
+  width: 900px;
+  border: solid black;
+  border-bottom-style: none;
+  border-right-style: none;
+  border-left-style: none;
+  position: absolute;
+  top: 850px;
+}
+.last{
+  padding-left: 0px;
+  
+}
+.email{
+  position: absolute;
+  right: 5px;
+  bottom: 10px;
+}
+input{
+  border: 1px solid black;
+}
+.total{
+  width: 250px;
+  height: 280px;
+  
+  position: absolute;
+  right: 480px;
+  top: 100px;
+  padding: 10px;
+  background-color: lightgrey;
+  px;
+}
+table{
+  width: 150%
+  
+}
+.t1{
+  width: 115%
+}
